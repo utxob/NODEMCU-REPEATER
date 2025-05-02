@@ -1,6 +1,6 @@
 # Wi-Fi Repeater using NodeMCU ESP8266
 
-![NodeMCU ESP8266](https://i.imgur.com/JZk9Q4l.jpg)
+
 
 A configurable Wi-Fi repeater/extender using NodeMCU ESP8266 with web-based administration panel.
 
